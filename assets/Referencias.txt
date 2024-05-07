@@ -1,0 +1,36 @@
+## CHECKLIST PARA O ARTIGO DA DIO
+(  ) Definir assunto
+(  ) Título que chama a atenção
+(  ) Imagem da capa do artigo
+(  ) Blocos do conteúdo do artigo
+(  ) Postar o artigo com um call to action
+
+
+## Assunto
+	Python - Orientação a Objetos
+
+## Título
+	"Desmistificando a Orientação a Objetos em Python: Um Guia Prático para Iniciantes e Além"
+
+## Capa
+	Feito com Lexica.Art e PowerPoint
+
+## Blocos
+
+Comporte-se com um Engenheiro de Software Sênior Python com mais de 10 anos de experiência em escrita de artigos tech de back-end e escreva o Artigo atendendo as regras abaixo
+
+{REGRAS}
+> No máximo 8 linhas por bloco de explicação
+> Me explique de forma técnica, mas usando uma maneira não tão formal, como se fosse um desenvolvedor Python Júnior
+> Os blocos que deverão ser escritos e criados são o que estão abaixo:
+- O que é Orientação a Objetos em Python
+- Definição de Classes e Objetos
+- Construtor da Classe em Python
+	- Cite exemplos com código de como criar uma classe em Python
+- Métodos de Classes
+- Métodos de Classe com retorno
+	- Cite exemplos com código de como criar classes Python com retorno
+- Métodos com atributos
+	- Cite exemplos com código de como criar métodos com atributos em Python com retorno
+- Outros métodos de uma Classe em Python
+- Como acessar objetos por referência
