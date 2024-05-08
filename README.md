@@ -1,6 +1,6 @@
 <p align="center">
   <img 
-    src="assets/prefantastical-creature.jpg"
+    src="assets/fantastical-creature.jpg"
     width="400"  
   />
 </p>
