@@ -25,13 +25,17 @@ ChatGPT:
 
 prompt                                                                                                                                                                                                                                                                         |
 | :------: | 
-|  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - Orientação a Objetos                                                                                                                                                                                                   |
-| conteúdo | Comporte-se com um Engenheiro de Software Sênior Python com mais de 10 anos de experiência em escrita de artigos tech de back-end e escreva o Artigo |
+|  título  |
+
+- Crie 10 headlines para nomes de artigos sobre o assunto Python - Orientação a Objetos                                                                                                                                                                                                   |
+| conteúdo |
+
+- Comporte-se com um Engenheiro de Software Sênior Python com mais de 10 anos de experiência em escrita de artigos tech de back-end e escreva o Artigo |
 
 
 Lexica.art:
 
-- Para criação da imagem, utilizei a ferramenta gratuita do lexica.art que permite através da licença pública utilizar a iamgem gerada para conteúdo gratuito. E foi usado o seguinte prompt para criação da imagem:
+- Para criação da imagem, utilizei a ferramenta gratuita do lexica.art que permite através da licença pública utilizar a imagem gerada para conteúdo gratuito. E foi usado o seguinte prompt para criação da imagem:
 
 prompt                                                                                                                                                                                                                                                                         |
 | :------: |
