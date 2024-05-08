@@ -24,7 +24,7 @@ Conclusão de projeto de artigo para DIO sobre Orientação a Obejtos em Python
 ChatGPT:
 
 prompt                                                                                                                                                                                                                                                                         |
-| :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :------: | 
 |  título  | Crie 10 headlines para nomes de artigos sobre o assunto Python - Orientação a Objetos                                                                                                                                                                                                   |
 | conteúdo | Comporte-se com um Engenheiro de Software Sênior Python com mais de 10 anos de experiência em escrita de artigos tech de back-end e escreva o Artigo |
 
@@ -44,3 +44,8 @@ prompt                                                                          
 - Conteúdo gerado via ChatGPT e revisado por mim e também com vários acréscimos
 - Imagens do acervo público geradas via Lexica.art
 
+# Agradecimentos
+
+Agradeço minha família pela ajuda. Também a DIO na pessoa do Felipe Aguiar que é realmente um expert em I.A.´s
+
+E também a você cheogou até aqui!
