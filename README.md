@@ -48,4 +48,4 @@ prompt                                                                          
 
 Agradeço minha família pela ajuda. Também a DIO na pessoa do Felipe Aguiar que é realmente um expert em I.A.´s
 
-E também a você cheogou até aqui!
+E também a você chegou até aqui!
